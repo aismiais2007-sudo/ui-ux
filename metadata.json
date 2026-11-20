@@ -1,0 +1,6 @@
+{
+  "name": "Find&Swap KG — Гильдия коллекционеров Бишкека",
+  "description": "Сообщество безопасного обмена и покупки редких книг, настольных игр и винтажной техники в Бишкеке с эскроу MBank и проверкой Түндүк.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
